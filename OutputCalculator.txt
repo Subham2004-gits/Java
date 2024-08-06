@@ -1,0 +1,29 @@
+Enter number 1: 45
+Enter number 2: 95
+What operation do you want to perform (sum, subtract, multiply, division): sum
+45.000000 + 95.000000 = 140.000000
+Calculator closed.
+
+Enter number 1: 78
+Enter number 2: 26
+What operation do you want to perform (sum, subtract, multiply, division): division
+78.000000 / 26.000000 = 3.000000
+Calculator closed.
+
+Enter number 1: 50
+Enter number 2: 25
+What operation do you want to perform (sum, subtract, multiply, division): subtract
+50.000000 - 25.000000 = 25.000000
+Calculator closed.
+
+Enter number 1: 1000
+Enter number 2: 252
+What operation do you want to perform (sum, subtract, multiply, division): multiply
+1000.000000 * 252.000000 = 252000.000000
+Calculator closed.
+
+Enter number 1: 100
+Enter number 2: 200
+What operation do you want to perform (sum, subtract, multiply, division): add
+Invalid operation. Please choose from sum, subtract, multiply, or division.
+Calculator closed.
