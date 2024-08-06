@@ -1,0 +1,14 @@
+Enter your guess: 16
+Too low! Try again.
+Enter your guess: 17
+Too low! Try again.
+Enter your guess: 18
+Too low! Try again.
+Enter your guess: 19
+Too low! Try again.
+Enter your guess: 20
+Too low! Try again.
+Enter your guess: 24
+Too high! Try again.
+Enter your guess: 22
+Congratulations! You guessed the number in 12 attempts.

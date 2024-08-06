@@ -1,0 +1,80 @@
+Temperature Convertor 
+Choose its type
+1.  Celsius to Farhenheit
+2.  fahrenheitToCelsius 
+3.  celsiusToKelvin
+4.  kelvinToCelsius
+5.  fahrenheitToKelvin
+6.  kelvinToFahrenheit
+
+1
+Enter the temperature value: 25
+Result: 77.00 Fahrenheit
+Temperature Convertor 
+Choose its type
+1.  Celsius to Farhenheit
+2.  fahrenheitToCelsius 
+3.  celsiusToKelvin
+4.  kelvinToCelsius
+5.  fahrenheitToKelvin
+6.  kelvinToFahrenheit
+
+2
+Enter the temperature value: 63
+Result: 17.22 Celsius
+Temperature Convertor 
+Choose its type
+1.  Celsius to Farhenheit
+2.  fahrenheitToCelsius 
+3.  celsiusToKelvin
+4.  kelvinToCelsius
+5.  fahrenheitToKelvin
+6.  kelvinToFahrenheit
+
+3
+Enter the temperature value: 45
+Result: 318.15 Kelvin
+Temperature Convertor 
+Choose its type
+1.  Celsius to Farhenheit
+2.  fahrenheitToCelsius 
+3.  celsiusToKelvin
+4.  kelvinToCelsius
+5.  fahrenheitToKelvin
+6.  kelvinToFahrenheit
+
+4
+Enter the temperature value: 23
+Result: -250.15 Celsius
+Temperature Convertor 
+Choose its type
+1.  Celsius to Farhenheit
+2.  fahrenheitToCelsius 
+3.  celsiusToKelvin
+4.  kelvinToCelsius
+5.  fahrenheitToKelvin
+6.  kelvinToFahrenheit
+
+5
+Enter the temperature value: 89
+Result: 304.82 Kelvin
+Temperature Convertor 
+Choose its type
+1.  Celsius to Farhenheit
+2.  fahrenheitToCelsius 
+3.  celsiusToKelvin
+4.  kelvinToCelsius
+5.  fahrenheitToKelvin
+6.  kelvinToFahrenheit
+
+6
+Enter the temperature value: 85
+Result: -306.67 Fahrenheit
+Temperature Convertor 
+Choose its type
+1.  Celsius to Farhenheit
+2.  fahrenheitToCelsius 
+3.  celsiusToKelvin
+4.  kelvinToCelsius
+5.  fahrenheitToKelvin
+6.  kelvinToFahrenheit
